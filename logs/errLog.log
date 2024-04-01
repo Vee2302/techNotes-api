@@ -1,0 +1,9 @@
+20240304	21:15:33	e4c9961c-9a41-442b-9213-2f00fe0f2924	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20240304	21:15:33	dfc2a27b-0fdb-432a-8473-1f9fd68afb37	Error: Not allowed by CORS	GET	/	https://www.google.com
+20240309	15:41:10	6944adf5-ff3c-4068-a6fa-7298d29779a8	SyntaxError: Expected ',' or '}' after property value in JSON at position 60	POST	/users	undefined
+20240309	15:58:11	d41e0220-833b-4ddf-a827-4cdfe9c06e5b	SyntaxError: Unexpected non-whitespace character after JSON at position 182	PATCH	/users	undefined
+20240309	15:58:49	a49aec55-274e-42dc-a0de-93a6ae51b3cc	SyntaxError: Unexpected non-whitespace character after JSON at position 183	PATCH	/users	undefined
+20240309	15:59:57	bbd0076e-6757-4253-b57b-bf9d94f73cc8	SyntaxError: Unexpected non-whitespace character after JSON at position 183	GET	/users	undefined
+20240321	15:16:34	76fa2115-679d-467c-82f5-90b55a0e672c	SyntaxError: Expected ',' or '}' after property value in JSON at position 31	GET	/auth	undefined
+20240321	16:45:07	abcb8cfc-6728-43ae-b177-5b4c748ccb17	SyntaxError: Expected ',' or '}' after property value in JSON at position 31	POST	/users	undefined
+20240322	11:37:56	f002a28c-1d38-4b7f-aa70-68bfc8b21bcf	SyntaxError: Expected ',' or '}' after property value in JSON at position 31	POST	/users	undefined
